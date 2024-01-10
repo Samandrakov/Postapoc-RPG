@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"raider 1 m","characterIndex":0,"characterName":"raider 1 m","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"raider 1 m","traits":[],"initialLevel":1,"maxLevel":99,"name":"Гарольд","nickname":"Гамак","note":"","profile":"Ну эт я, и ? Все меня знают, я Гарольд, завсегдатай местного душного посёлыча Нигденск"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ретривер","nickname":"Хот_Доггич","note":"","profile":"Прицепился ко мне еще в баре, видимо недавно лишился хозяина, главное не доставляй проблем"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
