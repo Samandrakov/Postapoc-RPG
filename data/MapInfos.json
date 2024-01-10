@@ -1,12 +1,14 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Мир Пустыня","order":1,"parentId":0,"scrollX":655.2,"scrollY":365.6},
-{"id":2,"expanded":true,"name":"Казино потеряйка","order":3,"parentId":1,"scrollX":655.2,"scrollY":365.6},
-{"id":3,"expanded":true,"name":"Лагерь Хламовщиков","order":5,"parentId":1,"scrollX":655.2,"scrollY":365.6},
-{"id":4,"expanded":false,"name":"Пустыня Север","order":8,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Пустыня запад переход","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Казино потеряйка","order":3,"parentId":1,"scrollX":728,"scrollY":406.22222222222223},
+{"id":3,"expanded":true,"name":"Лагерь Хламовщиков","order":5,"parentId":1,"scrollX":728,"scrollY":406.22222222222223},
+{"id":4,"expanded":false,"name":"Пустыня Север","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Пустыня запад переход","order":11,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"Старое складское помещение","order":2,"parentId":1,"scrollX":655.2,"scrollY":365.6},
-{"id":7,"expanded":false,"name":"Дурацкая пещера","order":7,"parentId":1,"scrollX":655.2,"scrollY":365.6},
+{"id":7,"expanded":false,"name":"Дурацкая пещера","order":9,"parentId":1,"scrollX":655.2,"scrollY":365.6},
 {"id":8,"expanded":false,"name":"Казино верхнее крыло","order":4,"parentId":2,"scrollX":655.2,"scrollY":365.6},
-{"id":9,"expanded":false,"name":"Хим завод Хламовщиков","order":6,"parentId":3,"scrollX":595.6363636363636,"scrollY":332.3636363636364}
+{"id":9,"expanded":false,"name":"Хим завод Хламовщиков","order":6,"parentId":3,"scrollX":728,"scrollY":406.22222222222223},
+{"id":10,"expanded":true,"name":"Переход между шатром и заводом","order":7,"parentId":3,"scrollX":728,"scrollY":406.22222222222223},
+{"id":11,"expanded":false,"name":"Химзавод Вход","order":8,"parentId":3,"scrollX":819,"scrollY":457}
 ]
